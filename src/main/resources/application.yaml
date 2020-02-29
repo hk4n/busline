@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+host: "https://api.sl.se"
+key: "${TRAFIKLAB_API_KEY}"
