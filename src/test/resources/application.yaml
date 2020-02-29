@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+host: "http://localhost:8080"
+key: "nokey"
